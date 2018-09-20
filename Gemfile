@@ -9,7 +9,7 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '5.1.6'
 
-ruby, '2.4.1'
+ruby '2.4.1'
 # Use Puma as the app server
 gem 'puma', '3.9.1'
 # Use SCSS for stylesheets
